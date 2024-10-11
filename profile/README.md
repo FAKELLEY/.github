@@ -265,6 +265,13 @@ Complex Queries: Allows for fetching complex nested relationships easily, making
 Real-time Data: This structure can support real-time data analysis and updates, allowing users to stay informed about their transactions and market trends.
 
 
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/KelleyTaylor/embed/MWOJgQy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/KelleyTaylor/pen/MWOJgQy">
+  Untitled</a> by Felicia (<a href="https://codepen.io/KelleyTaylor">@KelleyTaylor</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 Implementation Considerations
 
 Database Integration: Ensure that your backend database can efficiently handle the relationships defined in your GraphQL schema.
